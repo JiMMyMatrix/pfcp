@@ -10,6 +10,7 @@ const (
 	SourceInterfaceCore
 	SourceInterfaceSgiLanN6Lan
 	SourceInterfaceCpFunction
+	SourceInterface5GVnInternal
 )
 
 type SourceInterface struct {

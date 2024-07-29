@@ -11,6 +11,7 @@ const (
 	DestinationInterfaceSgiLanN6Lan
 	DestinationInterfaceCpFunction
 	DestinationInterfaceLiFunction
+	DestinationInterface5GVnInternal
 )
 
 type DestinationInterface struct {
